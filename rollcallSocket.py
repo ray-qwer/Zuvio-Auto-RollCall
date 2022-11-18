@@ -115,7 +115,7 @@ class zuvio:
         return True
 
 # if __name__ == "__main__":
-#     z = zuvio(mail = "b07901055@ntu.edu.tw",password="ray772425",courseURL="https://irs.zuvio.com.tw/student5/irs/rollcall/828938",lat=25.016168,lng=121.545303,timePeriod=20,minute=120)  
+#     z = zuvio(mail = "",password="",courseURL="https://irs.zuvio.com.tw/student5/irs/rollcall/828938",lat=25.016168,lng=121.545303,timePeriod=20,minute=120)  
 #     print(z.login())
 #     z.checkRollcall()
 
